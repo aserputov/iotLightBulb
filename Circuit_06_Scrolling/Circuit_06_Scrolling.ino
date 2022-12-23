@@ -1,21 +1,8 @@
-/*
-  For Loop Iteration
+// Date: 2022-12-22
+// By:  A.Serputov
+// Desc: This program will scroll a light from one end of the strip to the other.
+//       The light will then scroll back to the other end of the strip by default.
 
- Demonstrates the use of a for() loop.
- Lights multiple LEDs in sequence, then in reverse.
-
- The circuit:
- * LEDs from pins 2 through 7 to ground
-
- created 2006
- by David A. Mellis
- modified 30 Aug 2011
- by Tom Igoe
-
-This example code is in the public domain.
-
- http://www.arduino.cc/en/Tutorial/ForLoop
- */
 
 int timer = 1000;           // The higher the number, the slower the timing.
 
