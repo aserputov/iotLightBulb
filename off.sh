@@ -1,0 +1,2 @@
+arduino-cli compile ../Circuit_06_Scrolling/Circuit_06_Scrolling.ino -b arduino:avr:uno 
+arduino-cli upload ../Circuit_06_Scrolling/Circuit_06_Scrolling.ino --fqbn arduino:avr:uno --port /dev/cu.usbmodem14101
